@@ -17,3 +17,7 @@ body:not(.subnetting) #status:empty{display:none}
  body:not(.subnetting) footer{top:auto;bottom:12px;right:12px;left:12px;transform:none;width:auto;max-height:140px;overflow:auto;padding:12px;flex-direction:row;align-items:center}
  body:not(.subnetting) #check{width:auto;flex-shrink:0}
 }
+
+#device-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0 8px}
+#device-tabs[hidden],[role="tabpanel"][hidden]{display:none}
+#device-tabs [aria-selected="true"]{background:#087d75;color:white;border-color:#087d75}
