@@ -1,0 +1,18 @@
+RETI LAB - VERSIONE WINDOWS
+
+1. Fai doppio clic su RetiLab.exe.
+2. Si apre il browser con il programma pronto.
+3. Lascia aperta la finestra "Reti Lab - programma in esecuzione".
+4. Quando hai finito, premi OK in quella finestra per fermare il backend.
+
+Non occorre installare Python, Flask o Codex. Il programma include i file
+necessari e funziona senza Internet, nel browser predefinito del computer.
+L'indirizzo locale cambia a ogni avvio: usa la pagina aperta automaticamente.
+Chiudere soltanto la scheda del browser non arresta il backend.
+
+Per trasferirlo su un altro PC Windows a 64 bit basta copiare RetiLab.exe.
+Puoi anche trasferire lo ZIP tramite Google Drive, quindi estrarlo sul PC.
+La prima apertura puo richiedere qualche secondo.
+
+L'eseguibile non e firmato digitalmente. Su computer con restrizioni aziendali
+potrebbe essere necessaria l'autorizzazione dell'amministratore.

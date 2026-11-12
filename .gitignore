@@ -1,0 +1,10 @@
+.deps/
+.venv/
+__pycache__/
+.builddeps/
+build/
+dist/
+*.spec
+!RetiLab.spec
+*.log
+dist-*/
